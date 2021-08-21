@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Hadi Rahmah Esa Putra
+- 👀 I’m interested in Mobile Programming
+- 🌱 I’m currently learning Kotlin & Java Language
+- 💞️ I’m looking to collaborate on Mobile Programming
+- 📫 How to reach me ? contact my telegram that is @hadirep
