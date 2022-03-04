@@ -14,9 +14,3 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hadirep&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-Dart.
-
-Flutter.
-
-Kotlin.
