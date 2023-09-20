@@ -1,12 +1,12 @@
-# Halo semua! 
+# Hello everyone!
 
-Perkenalkan nama saya **Hadi Rahmah Esa Putra**.
+Allow me to introduce myself, **Hadi Rahmah Esa Putra** is my name.
 
-Saya seorang **Mahasiswa** di [Universitas Budi Luhur](https://www.budiluhur.ac.id/).
+I am a **student** at [Budi Luhur University](https://www.budiluhur.ac.id/).
 
-Saya mengambil Fakultas Teknologi Informasi, Program Studi Teknik Informatika.
+I am enrolled in the Faculty of Information Technology, majoring in Computer Engineering.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/hadi-r-0a0811140/) ku ya.
+If you're interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/hadi-r-0a0811140/) account.
 
 <p align="left">
 <a href="https://github.com/hadirep">
