@@ -2,9 +2,7 @@
 
 Allow me to introduce myself, **Hadi Rahmah Esa Putra** is my name.
 
-I am a **student** at [Budi Luhur University](https://www.budiluhur.ac.id/).
-
-I am enrolled in the Faculty of Information Technology, majoring in Computer Engineering.
+I am a **Fresh Graduate of Informatics Engineering** at [Budi Luhur University](https://www.budiluhur.ac.id/).
 
 If you're interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/hadi-r-0a0811140/) account.
 
